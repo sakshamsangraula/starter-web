@@ -1,0 +1,1 @@
+New file to check if it is being tracked by git
