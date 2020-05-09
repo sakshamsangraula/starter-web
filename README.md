@@ -18,9 +18,12 @@ Please fork this repository and issue pull request for review in order to contri
 webserver
 
 ### Copyright
-Copyright notice
+Copyright notice, all rights reserved
 
 
 #### Academia
 
 Added a line
+
+
+modified
