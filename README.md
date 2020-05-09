@@ -11,7 +11,7 @@ intro
 git examples 
 
 ## How to contribute
-
+Please fork this repository and issue pull request for review in order to contribute
 
 ## Deployment
 
