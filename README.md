@@ -16,3 +16,6 @@ git examples
 ## Deployment
 
 webserver
+
+### Copyright
+Copyright notice
